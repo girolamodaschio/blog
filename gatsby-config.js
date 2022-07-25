@@ -12,6 +12,16 @@ module.exports = {
     },
   },
   plugins: [
+    
+    {
+    resolve: `gatsby-plugin-canonical-urls`,
+    options: {
+      siteUrl: `https://www.girolamo.net`,
+    },
+  },
+    
+    
+    
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
