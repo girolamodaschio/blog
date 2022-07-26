@@ -31,6 +31,7 @@
     "react-helmet": "^6.1.0",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75"
+    "gatsby-plugin-canonical-urls" : "latest"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
