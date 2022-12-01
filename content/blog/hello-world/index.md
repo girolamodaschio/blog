@@ -1,9 +1,7 @@
 ---
-title: Hello World
+title: Happy Codecember 1st
 date: "2022-12-01T08:12:03.284Z"
-description: "12/01"
 ---
-
 I'll code, for myself, at least 25 minutes per day.
 Starting today, Codecember the 1st!
 Here we start with an API written in Python that tells the user how many days are missing until Christmas.
@@ -39,7 +37,7 @@ if __name__ == "__main__":
 ```
 
 
-What I've done:
+#### What I've done:
 
 Since 25 minutes is a really short period, I've decided to use FastAPI(), one of the fastest API frameworks for Python.
 * After importing all need elements, I created two application endpoints. 
@@ -47,7 +45,8 @@ Since 25 minutes is a really short period, I've decided to use FastAPI(), one of
 * Second, root, uses the standard DateTime library, to define the time delta between December 25 of the current year, and now.
 * Finally, I create a JSON where the key is "Days" and the value is the integer of the number of days between now and Christmas.
 
-How can you test:
 
+
+See you tomorrow!
 
 
