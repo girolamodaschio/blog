@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Digital Sabato`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Girolamo da Schio`,
+      summary: `a geek.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Girolamo da Schio, Backend Engineer`,
+    siteUrl: `https://girolamo.net/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `#`,
     },
   },
   plugins: [
