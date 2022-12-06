@@ -9,6 +9,7 @@ module.exports = {
     siteUrl: `https://girolamo.net/`,
     social: {
       twitter: `#`,
+      github: `girolamodaschio`,
     },
   },
   plugins: [
