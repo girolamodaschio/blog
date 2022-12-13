@@ -1,5 +1,5 @@
 ---
-title: Deploying my Python Container to Azure Container App
+title: Deploying my API: first troubles
 date: "2022-12-06T08:12:03.284Z"
 ---
 Hello there :)
