@@ -8,8 +8,8 @@ module.exports = {
     description: `Girolamo da Schio, Backend Engineer`,
     siteUrl: `https://girolamo.net/`,
     social: {
-      twitter: `#`,
       github: `girolamodaschio`,
+      twitter: `#`,
     },
   },
   plugins: [
