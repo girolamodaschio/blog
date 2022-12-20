@@ -59,7 +59,7 @@ az acr run --registry codecembercontainerregistry \
 
 It works!
 
-See you tomorrow
+See you next post
 
 Girolamo
 
