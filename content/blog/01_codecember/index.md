@@ -47,6 +47,6 @@ Since 25 minutes is a really short period, I've decided to use FastAPI(), one of
 
 
 
-See you tomorrow!
+See you next post!
 
 

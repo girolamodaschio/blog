@@ -47,7 +47,7 @@ registry.
 A partial solution to the problem can be found [here](
 https://learn.microsoft.com/en-us/azure/app-service/tutorial-custom-container?pivots=container-linux)
 
-See you tomorrow.
+See you next post
 
 
 
