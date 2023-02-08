@@ -26,15 +26,20 @@ What I'm going to do next?
 
 ### How to deploy that Codecember app on a VM?
 
-* Create a basic ubuntu VM droplet on digital ocean.
-* Log in through ssh
-* BONUS: create a new user, girolamo, add public key to its .ssh folder and disallow future root access
-* Logout from the root, log in as girolamo
-* git clone repository
-* docker run .
-* From a terminal, curl droplet IP
-* it's x days from Christmas :)
+#### The super-easy way:
+* From Digital Ocean click on Create Apps in the top-right menu.
+![Screenshot](create-app.png)
+* Select the repository from Github
+![](select-repository.png)
+* Configure the resources
+![](resources.png)
+* Configure the information
+![](info.png)
+* Review the plan
+![](plan.png)
+Scream, it will cost 24$ per month.
+But it works :)
+![](scream.png)
+![](works.png)
 
-
-See you on the next Post.
-
+See you in the next post :)
