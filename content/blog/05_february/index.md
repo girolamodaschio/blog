@@ -1,8 +1,8 @@
 ---
 title: 500 error, Open Source, Writing needs.
-date: "2023-17-30T08:12:03.284Z"
+date: "2023-02-17T08:12:03.284Z"
 ---
-# Three awesome things I feel I've learned this week.
+### Three awesome things I feel I've learned this week.
 
 1. 500 Internal Server Error. 
 It's a gift from another developer. 
