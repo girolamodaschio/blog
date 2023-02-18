@@ -14,10 +14,10 @@ If you search for internal logs, you'll probably find the solution to your probl
 The best way to understand open source software is by forking it, testing it locally, and then checking for the issue it's facing.
 February is an Open-Source dedicated month.
 What do I use and where I'll start contributing?
-Stop thinking to my github as a showcase, start thinking of it as a tool. 
+Stop thinking to my github as a showcase, start thinking it as a tool. 
 Fork, fork, fork.
 
-3. I don't think of a standard software engineer.
+3. I don't think as a standard software engineer.
 I've understood that most of the time, a Software engineer will face a problem by:
 Define a plan,
 Execute a plan.
