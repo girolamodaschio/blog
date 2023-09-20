@@ -2,6 +2,7 @@
 title: Happy Codecember 1st
 date: "2022-12-01T08:12:03.284Z"
 ---
+
 I'll code, for myself, at least 25 minutes per day.
 Starting today, Codecember the 1st!
 Here we start with an API written in Python that tells the user how many days are missing until Christmas.
@@ -48,5 +49,3 @@ Since 25 minutes is a really short period, I've decided to use FastAPI(), one of
 
 
 See you next post!
-
-
