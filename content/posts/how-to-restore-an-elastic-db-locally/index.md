@@ -1,6 +1,6 @@
 ---
 title: How to locally restore an elastic db index
-date: "2023-09-28T10:12:03.284Z"
+date: "2023-10-03T18:12:03.284Z"
 categories:
     - blog
 tags:
