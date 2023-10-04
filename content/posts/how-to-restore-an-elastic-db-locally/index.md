@@ -10,8 +10,7 @@ tags:
 ---
 # How to restore an Elasticsearch Snapshot locally
 
-![animation kids GIF by Chris Gannon
-](https://media.giphy.com/media/l0K41XC18K6aJ99NS/giphy.gif)
+![Pawel Czerwinski](https://images.unsplash.com/photo-1541972289615-de502ba75939?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
 
 ## Introduction:
 This guide outlines the process of restoring a copy of an Elasticsearch snapshot on your local machine. This can be especially useful when you need to troubleshoot issues in a database for which you don't have direct access, without having to create an API for interaction. Since this procedure lacks [documentation][2], we aim to provide you with a clear step-by-step guide.
