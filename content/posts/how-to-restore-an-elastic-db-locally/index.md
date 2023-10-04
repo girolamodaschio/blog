@@ -22,10 +22,22 @@ This guide outlines the process of restoring a copy of an Elasticsearch snapshot
 
 To begin, retrieve the Elasticsearch snapshot from its repository. 
 If you're using Google Cloud Platform (GCP), follow these steps:
-- Use the 'gscopy' command to copy all files from the repository. `gsutil -m cp -r gs://${BUCKET_NAME}/${SNAPSHOT_NAME}/* ./`
-- Compress all the copied files into a zip archive. `zip -r ${ZIP_FILE} ./${SNAPSHOT_NAME}`
-- Download the zip file to your local machine. `gcloud compute scp ${ZIP_FILE} YOUR_LOCAL_MACHINE_USERNAME@YOUR_LOCAL_MACHINE_IP:~/ --zone=YOUR_LOCAL_MACHINE_ZONE`
-- From your terminal, extract the contents of the zip file. `unzip ${ZIP_FILE} -d ${LOCAL_PATH}`
+- Use the 'gscopy' command to copy all files from the repository. 
+```bash
+gsutil -m cp -r gs://${BUCKET_NAME}/${SNAPSHOT_NAME}/* ./
+```
+- Compress all the copied files into a zip archive. 
+```bash
+zip -r ${ZIP_FILE} ./${SNAPSHOT_NAME}
+```
+- Download the zip file to your local machine. 
+```bash
+gcloud compute scp ${ZIP_FILE} YOUR_LOCAL_MACHINE_USERNAME@YOUR_LOCAL_MACHINE_IP:~/ --zone=YOUR_LOCAL_MACHINE_ZONE
+```
+- From your terminal, extract the contents of the zip file. 
+```bash
+unzip ${ZIP_FILE} -d ${LOCAL_PATH}
+```
 - Note down the path to the extracted snapshot.
 
 
