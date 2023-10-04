@@ -1,6 +1,10 @@
 ---
 title: Happy Codecember 1st
 date: "2022-12-01T08:12:03.284Z"
+categories:
+    - blog
+tags:
+  - python
 ---
 
 I'll code, for myself, at least 25 minutes per day.
