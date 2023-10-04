@@ -1,6 +1,10 @@
 ---
 title: Virtualizing my API 
 date: "2022-12-02T08:12:03.284Z"
+categories:
+    - blog
+tags:
+  - python
 ---
 Hello there,
 I've decided to accomplish most of my codecember goals by learning something new about Azure, a provider that I've never used.
