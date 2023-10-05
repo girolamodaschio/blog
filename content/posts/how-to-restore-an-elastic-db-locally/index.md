@@ -1,5 +1,5 @@
 ---
-title: How to locally restore an elastic db index
+title: How to restore an Elasticsearch Snapshot locally
 date: "2023-10-03T18:12:03.284Z"
 categories:
     - blog
@@ -8,8 +8,6 @@ tags:
   - elastic
   - kibana
 ---
-# How to restore an Elasticsearch Snapshot locally
-
 ![Pawel Czerwinski](https://images.unsplash.com/photo-1541972289615-de502ba75939?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
 
 ## Introduction:
