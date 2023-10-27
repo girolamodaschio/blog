@@ -1,13 +1,13 @@
 [[main]]
-    identifier = "home"
+    identifier = "about"
     name = "Home"
-    url = "/"
+    url = "/about"
     weight = 1
 
 [[main]]
-    identifier = "posts"
+    identifier = "home"
     name = "Posts"
-    url = "/posts"
+    url = "/"
     weight = 2
 
 [[main]]
