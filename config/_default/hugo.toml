@@ -1,5 +1,5 @@
-baseURL = 'http://girolamo.net/'
-copyright = "2023 - {year}" # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
+baseURL = 'http://girolamodaschio.it/'
+copyright = "{year}"
 languageCode = 'en-us'
 theme = 'lowkey'
 title = 'Girolamo da Schio'
