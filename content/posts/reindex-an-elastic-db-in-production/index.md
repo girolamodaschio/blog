@@ -7,4 +7,5 @@ tags:
   - howto
   - elastic
   - kibana
+draft: true
 ---
