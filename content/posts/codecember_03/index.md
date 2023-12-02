@@ -5,6 +5,9 @@ categories:
     - blog
 tags:
   - python
+  - codecember22
+
+
 ---
 Hello there :)
 Now that I've virtualized my Api and uploaded it to Azure Container Registry, I want to deploy it as a Container app.

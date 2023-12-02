@@ -5,6 +5,8 @@ categories:
     - blog
 tags:
   - python
+  - codecember22
+
 ---
 Hello there,
 I've decided to accomplish most of my codecember goals by learning something new about Azure, a provider that I've never used.

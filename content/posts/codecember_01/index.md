@@ -5,6 +5,7 @@ categories:
     - blog
 tags:
   - python
+  - codecember22
 ---
 
 I'll code, for myself, at least 25 minutes per day.

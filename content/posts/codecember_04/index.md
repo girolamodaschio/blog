@@ -5,6 +5,7 @@ categories:
     - blog
 tags:
   - python
+  - codecember22
 ---
 
 Earlier this month I started a challenge with myself: coding for the sake of coding itself.
