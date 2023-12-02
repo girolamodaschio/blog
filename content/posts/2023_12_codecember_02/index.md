@@ -1,5 +1,5 @@
 ---
-title: Codecember once again. A Journey into iCloud Photo Management
+title: Each door has it’s own key
 date: "2023-12-02T13:12:03.284Z"
 categories:
     - blog
@@ -15,6 +15,8 @@ Github here come at help: https://pypi.org/project/pyicloud/ seems an open sourc
 
 Also, they have an already prepared API that allows to access the iCloud Photo Library through the photos property.
 
+![A screenshot of PyIcloud documentation](image.png)
+
 
 To log into my iPhoto I need to retrieve:
 - my username and my password.
@@ -22,6 +24,4 @@ To log into my iPhoto I need to retrieve:
 
 Let’s get this try a shot.
 
-
-
-github.com/girolamodaschio/codecember
+[github.com/girolamodaschio/codecember](github.com/girolamodaschio/codecember)

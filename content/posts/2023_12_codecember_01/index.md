@@ -20,4 +20,5 @@ So here is your goal: an application that allows to visualize and delete duplica
 Structuring this as a Proof of concept, is needed to understand if it’s feasible. Then, you’ll think how to make it production ready.
 
 As a great space traveler once said: let’s go.
-github.com/girolamodaschio/codecember
+
+[github.com/girolamodaschio/codecember](github.com/girolamodaschio/codecember)
