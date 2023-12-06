@@ -7,7 +7,7 @@ tags:
   - codecember23
 ---
 
-Hej reader!
+Hej Girolamo of the future!
 I’m writing this blogpost to inaugurate the second session of codecember.
 Is the argument that in 2022 stimulated you mostly to write in your blog, so you are doing that again.
 
