@@ -32,4 +32,4 @@ Where the connection works.
 
 Follow my work on github!
 
-[github.com/girolamodaschio/codecember](github.com/girolamodaschio/codecember)
+[github.com/girolamodaschio/codecember](https://github.com/girolamodaschio/codecember)

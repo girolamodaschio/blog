@@ -32,4 +32,4 @@ As you navigate these strategies, you're at a crossroads—balancing memory and 
 Until next time, explore the delicate dance of memory and strategy in your quest for an organized digital photo collection.
 
 Follow my work on github!
-[github.com/girolamodaschio/codecember](github.com/girolamodaschio/codecember)
+[github.com/girolamodaschio/codecember](https://github.com/girolamodaschio/codecember)

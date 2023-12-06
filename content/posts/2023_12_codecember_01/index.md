@@ -21,4 +21,4 @@ Structuring this as a Proof of concept, is needed to understand if it’s feasib
 
 As a great space traveler once said: let’s go.
 
-[github.com/girolamodaschio/codecember](github.com/girolamodaschio/codecember)
+[github.com/girolamodaschio/codecember](https://github.com/girolamodaschio/codecember)

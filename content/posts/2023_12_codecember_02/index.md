@@ -24,4 +24,4 @@ To log into my iPhoto I need to retrieve:
 
 Let’s get this try a shot.
 
-[github.com/girolamodaschio/codecember](github.com/girolamodaschio/codecember)
+[github.com/girolamodaschio/codecember](https://github.com/girolamodaschio/codecember)
