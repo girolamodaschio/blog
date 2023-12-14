@@ -1,8 +1,7 @@
 ---
 title: How you use to set up a Python environment for your POC.
 date: "2023-12-03T13:12:03.284Z"
-categories:
-    - blog
+
 tags:
   - codecember23
 ---

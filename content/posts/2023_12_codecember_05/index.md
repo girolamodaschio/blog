@@ -1,8 +1,6 @@
 ---
 title: Finding duplicate photos through Hashing
 date: "2023-12-13T08:12:03.284Z"
-categories:
-    - blog
 tags:
   - codecember23
 ---

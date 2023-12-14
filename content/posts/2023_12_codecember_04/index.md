@@ -1,8 +1,7 @@
 ---
 title: Balancing Memory and Convenience
 date: "2023-12-06T08:12:03.284Z"
-categories:
-    - blog
+
 tags:
   - codecember23
 ---

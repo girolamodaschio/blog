@@ -1,8 +1,7 @@
 ---
 title: Each door has it’s own key
 date: "2023-12-02T13:12:03.284Z"
-categories:
-    - blog
+
 tags:
   - codecember23
 ---

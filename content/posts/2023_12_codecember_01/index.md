@@ -1,8 +1,7 @@
 ---
 title: Codecember once again. A Journey into iCloud Photo Management
 date: "2023-12-01T08:12:03.284Z"
-categories:
-    - blog
+
 tags:
   - codecember23
 ---

@@ -1,8 +1,7 @@
 ---
 title: Each Codecember comes to an end
 date: "2022-12-30T08:12:03.284Z"
-categories:
-    - blog
+
 tags:
   - python
   - codecember22

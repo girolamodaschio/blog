@@ -1,8 +1,7 @@
 ---
 title: Deploying my first API troubles
 date: "2022-12-06T08:12:03.284Z"
-categories:
-    - blog
+
 tags:
   - python
   - codecember22
